@@ -53,8 +53,7 @@ across various subdivisions. The model takes the following form (with
 the usual beta coefficients having been replaced with letters here; i.e.
 𝛽~0~ = 𝑎, 𝛽~1~ = 𝑏 and so forth):
 
-![](./media/image1.png){width="6.5in"
-height="0.3611111111111111in"}
+![](./media/image1.png)
 
 Where the above is representative of:
 
@@ -125,8 +124,7 @@ holding at least a bachelor's degree has on median income.
 
 # Findings:
 
-![](./media/media/image2.png){width="7.088542213473316in"
-height="7.291666666666667in"}
+![](./media/image2.png)
 
 Interestingly, after training our model and looking at the results by
 subdivision, it appears that the industry that could have the biggest
@@ -159,8 +157,7 @@ public administration employees is \$66,232, compared to only \$26,814
 of those in arts, entertainment, recreation, and accommodation and food
 services.
 
-![](./media/media/image3.png){width="6.850590551181102in"
-height="4.599995625546807in"}
+![](./media/image3.png)
 
 The above chart makes it apparent that increasing the education level of
 residents in certain subdivisions means more, in terms of increasing
@@ -201,11 +198,9 @@ such as the city of Miami.
 
 # Appendix/Diagnostics:
 
-![](./media/media/image4.png){width="6.5in"
-height="8.614583333333334in"}
+![](./media/image4.png)
 
-![](./media/media/image4.png){width="6.5in"
-height="6.489583333333333in"}
+![](./media/image4.png)
 
 When we look at the above trace plots, it appears that all of our
 parameters' estimates converged without issue. There were zero
