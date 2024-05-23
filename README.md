@@ -1,4 +1,4 @@
-# <p align=center font-size: 32px;>Industry Employment and Educational Attainment<br />in Response to Median Income:<br />A Bayesian Approach</p>
+# <p align=center>Industry Employment and Educational Attainment<br />in Response to Median Income:<br />A Bayesian Approach</p>
 
 ## Problem:
 
