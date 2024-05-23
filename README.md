@@ -1,5 +1,7 @@
 # <p align="center" style="font-size:34px;">Industry Employment and Educational Attainment<br />in Response to Median Income:<br />A Bayesian Approach</p>
 
+<hr style="border: 2px solid black;" />
+
 ## Problem:
 
 The COVID-19 pandemic sent shockwaves across the world causing economic
