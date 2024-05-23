@@ -1,6 +1,6 @@
 # Industry Employment and Educational Attainment in Response to Median Income: A Bayesian Approach
 
-# Problem:
+## Problem:
 
 The COVID-19 pandemic sent shockwaves across the world causing economic
 shutdowns and country lockdowns. The infectious disease caused by the
@@ -43,7 +43,7 @@ b)  Which industries perform particularly well and lead to a higher
     median income, as well as the importance of a bachelor's degree in
     determining income for each subdivision?
 
-# Approach:
+## Approach:
 
 To tackle this, we attempted a hierarchical regression. This is a type
 of linear regression where the observations in the dataset fall in a
@@ -120,9 +120,7 @@ others? This model also allows us to see the importance of educational
 attainment per subdivision by seeing the effect percentage of residents
 holding at least a bachelor's degree has on median income.
 
-# 
-
-# Findings:
+## Findings:
 
 ![](./media/image2.png)
 
@@ -173,7 +171,7 @@ educational attainment in already underserved areas would certainly mean
 more than it would in areas where more residents already have a
 bachelor's degree.
 
-# Summary:
+## Summary:
 
 After training our model and examining our findings, a similar result
 emerges across all subdivisions in Miami-Dade county when it comes to
@@ -196,9 +194,7 @@ subdivisions than others, specifically more rural areas, such as the
 Everglades and Princeton-Goulds, than it would be in more urban areas,
 such as the city of Miami.
 
-# Appendix/Diagnostics:
-
-![](./media/image4.png)
+## Appendix/Diagnostics:
 
 ![](./media/image4.png)
 
