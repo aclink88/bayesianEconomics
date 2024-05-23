@@ -53,7 +53,7 @@ across various subdivisions. The model takes the following form (with
 the usual beta coefficients having been replaced with letters here; i.e.
 𝛽~0~ = 𝑎, 𝛽~1~ = 𝑏 and so forth):
 
-![](./media/media/image1.png){width="6.5in"
+![](./media/image1.png){width="6.5in"
 height="0.3611111111111111in"}
 
 Where the above is representative of:
