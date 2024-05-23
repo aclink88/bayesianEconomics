@@ -1,4 +1,4 @@
-# Industry Employment and Educational Attainment<br />in Response to Median Income:<br />A Bayesian Approach
+# <p align=center>Industry Employment and Educational Attainment<br />in Response to Median Income:<br />A Bayesian Approach</p>
 
 ## Problem:
 
